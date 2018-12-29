@@ -12,7 +12,7 @@
 + 期限付き(2週間)のAAPIキーの生成、更新を行う
 + APIキーの生成更新画面に広告を載せる
 
-## タスク一覧(Trello)
+## タスク管理(Trello)
 https://trello.com/b/VsMQZSIM/jpstock
 ### 利用ルール
 - ボード: 未分類/\{担当者\}/レビュー/完了
