@@ -1,4 +1,7 @@
 # JPStock
+## タスク一覧
+https://trello.com/b/VsMQZSIM/jpstock
+
 ## 主要機能
 ### 株価収集
 + サイトからAPIのスクレイピングを行う
