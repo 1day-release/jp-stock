@@ -29,7 +29,7 @@ https://trello.com/b/VsMQZSIM/jpstock
 + API: Golang
 + APIキー生成・更新画面: JavaScript(VueJS)
 + APIキー生成・更新: Golang
-+　Lambda, CloudWatch, APIGateway, DynamoDB
++ 未分類: Lambda, CloudWatch, APIGateway, DynamoDB
 
 ## 機能詳細
 ### 1.株価収集
